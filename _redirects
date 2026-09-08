@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects
+# Uncomment the next line if you later want /cn/ to work as an alias of the Chinese homepage
+# /cn/* / 301
