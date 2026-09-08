@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://REPLACE-YOUR-DOMAIN.com/sitemap.xml
+Sitemap: https://kerwinthean.github.io/luoshu-furniture-website/sitemap.xml

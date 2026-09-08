@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://REPLACE-YOUR-DOMAIN.com/</loc>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://REPLACE-YOUR-DOMAIN.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-YOUR-DOMAIN.com/en/"/>
+    <loc>https://kerwinthean.github.io/luoshu-furniture-website/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://kerwinthean.github.io/luoshu-furniture-website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kerwinthean.github.io/luoshu-furniture-website/en/"/>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://REPLACE-YOUR-DOMAIN.com/en/</loc>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://REPLACE-YOUR-DOMAIN.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-YOUR-DOMAIN.com/en/"/>
+    <loc>https://kerwinthean.github.io/luoshu-furniture-website/en/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://kerwinthean.github.io/luoshu-furniture-website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kerwinthean.github.io/luoshu-furniture-website/en/"/>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
