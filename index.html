@@ -302,6 +302,15 @@
 <label>您的姓名</label><input type="text" name="name">
 <label>公司名称</label><input type="text" name="company">
 <label>邮箱</label><input type="email" name="email">
+<label>您的身份</label><select name="buyer_type"><option value="">请选择</option>
+<option>批发商 / 进口商</option>
+<option>家具连锁零售</option>
+<option>贸易公司</option>
+<option>OEM / ODM / 自有品牌</option>
+<option>酒店 / 工程项目</option>
+<option>室内设计 / 软装公司</option>
+<option>其他</option>
+</select>
 <label>国家 / 市场</label><select name="market"><option value="">请选择市场</option>
 <option>阿联酋</option>
 <option>沙特阿拉伯</option>
@@ -316,7 +325,7 @@
 <option>其他</option>
 </select>
 <label>感兴趣的型号</label><input type="text" name="models" placeholder="BD001, BD816 ...">
-<label>预计数量</label><input type="text" name="qty">
+<label>预计数量（起订量 1x20GP）</label><input type="text" name="qty" placeholder="例如 1 个 40HQ 整柜">
 <label>所需尺寸、面料及其他说明</label><textarea name="msg"></textarea>
 <button type="submit">发送询价</button>
 </form>

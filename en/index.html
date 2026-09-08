@@ -302,6 +302,15 @@
 <label>Your name</label><input type="text" name="name">
 <label>Company</label><input type="text" name="company">
 <label>Email</label><input type="email" name="email">
+<label>Your business type</label><select name="buyer_type"><option value="">Please select</option>
+<option>Wholesaler / Importer</option>
+<option>Furniture chain retailer</option>
+<option>Trading company</option>
+<option>OEM / ODM / Private label</option>
+<option>Hotel / Project contract</option>
+<option>Interior design / Fit-out</option>
+<option>Other</option>
+</select>
 <label>Country / market</label><select name="market"><option value="">Select a market</option>
 <option>United Arab Emirates</option>
 <option>Saudi Arabia</option>
@@ -316,7 +325,7 @@
 <option>Other</option>
 </select>
 <label>Models of interest</label><input type="text" name="models" placeholder="BD001, BD816 ...">
-<label>Estimated quantity</label><input type="text" name="qty">
+<label>Estimated quantity (MOQ 1x20GP)</label><input type="text" name="qty" placeholder="e.g. one 40HQ container">
 <label>Sizes needed, upholstery, and anything else</label><textarea name="msg"></textarea>
 <button type="submit">Send Enquiry</button>
 </form>
